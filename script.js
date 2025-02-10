@@ -25,6 +25,14 @@ window.onload = function () {
             $("nav a").click(function () {
                 let juego = $(this).text().trim();
 
+
+                // PARA VOLVER AL ESTADO BASE: si clickas de nuevo sobre el mismo que el anterior, se desseleccioan todo
+                if ($(this).hasClass("active")) {
+                    $("nav a").removeClass("active");
+                    $(".card").removeClass('apagado primeraAparicion').addClass('cardAnimate');
+                    return;
+                }
+
                 $(".card").removeClass('apagado');
                 $(".card").removeClass('primeraAparicion');
                 $(".card").removeClass('cardAnimate'); //así solo funciona el hover cuando TODAVÍA no has clickado en ninguna sección
