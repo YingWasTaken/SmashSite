@@ -254,3 +254,32 @@ span {
 #close-video:hover {
     background-color: #d32f2f;
 }
+
+@media screen and (max-width: 768px) {
+
+    header {
+        min-height: 30vh;
+    }
+
+    .titulo {
+        font-size: 3rem;
+    }
+
+
+}
+
+@media screen and (max-width: 480px) {
+
+    header {
+        min-height: 30vh;
+    }
+
+    .titulo {
+        font-size: 3rem;
+    }
+
+    nav {
+        flex-direction: column;
+    }
+
+}
