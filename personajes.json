@@ -1,0 +1,521 @@
+{
+    "personajes": [
+      {
+        "nombre": "Mario",
+        "imagen": "images/mario.png",
+        "video": "https://www.youtube.com/embed/INk1W8OujQI",
+        "primeraaparicion": "Super Smash Bros"
+      },
+      {
+        "nombre": "Donkey Kong",
+        "imagen": "images/donkeykong.png",
+        "video": "https://www.youtube.com/embed/K7IsUGeFXP0",
+        "primeraaparicion": "Super Smash Bros"
+      },
+      {
+        "nombre": "Link",
+        "imagen": "images/link.png",
+        "video": "https://www.youtube.com/embed/kfeUdBi67G4",
+        "primeraaparicion": "Super Smash Bros"
+      },
+      {
+        "nombre": "Samus",
+        "imagen": "images/samus.png",
+        "video": "https://www.youtube.com/embed/I9tcvSeemVo",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Samus Oscura",
+        "imagen": "images/samusoscura.png",
+        "video": "https://www.youtube.com/embed/oI6VChg",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Yoshi",
+        "imagen": "images/yoshi.png",
+        "video": "https://www.youtube.com/embed/bQsMQankmEs",
+        "primeraaparicion": "Super Smash Bros"
+      },
+      {
+        "nombre": "Kirby",
+        "imagen": "images/kirby.png",
+        "video": "https://www.youtube.com/embed/1FPJs_c3qY4",
+        "primeraaparicion": "Super Smash Bros"
+      },
+      {
+        "nombre": "Fox",
+        "imagen": "images/fox.png",
+        "video": "https://www.youtube.com/embed/Arw6c0dJHAE",
+        "primeraaparicion": "Super Smash Bros"
+      },
+      {
+        "nombre": "Pikachu",
+        "imagen": "images/pikachu.png",
+        "video": "https://www.youtube.com/embed/7LfEvnLc3mI",
+        "primeraaparicion": "Super Smash Bros"
+      },
+      {
+        "nombre": "Luigi",
+        "imagen": "images/luigi.png",
+        "video": "https://www.youtube.com/embed/LlNXKM3sHWU",
+        "primeraaparicion": "Super Smash Bros"
+      },
+      {
+        "nombre": "Ness",
+        "imagen": "images/ness.png",
+        "video": "https://www.youtube.com/embed/jtlUHmonMGQ",
+        "primeraaparicion": "Super Smash Bros"
+      },
+      {
+        "nombre": "Captain Falcon",
+        "imagen": "images/captainfalcon.png",
+        "video": "https://www.youtube.com/embed/ayUTQsO6d1E",
+        "primeraaparicion": "Super Smash Bros"
+      },
+      {
+        "nombre": "Jigglypuff",
+        "imagen": "images/jigglypuff.png",
+        "video": "https://www.youtube.com/embed/IlojAAwCfoA",
+        "primeraaparicion": "Super Smash Bros"
+      },
+      {
+        "nombre": "Peach",
+        "imagen": "images/peach.png",
+        "video": "https://www.youtube.com/embed/ETVQLZV7J8g",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Daisy",
+        "imagen": "images/daisy.png",
+        "video": "https://www.youtube.com/embed/YyzJnpX2ZcY",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Bowser",
+        "imagen": "images/bowser.png",
+        "video": "https://www.youtube.com/embed/liuwszyDhXM",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Ice Climbers",
+        "imagen": "images/iceclimbers.png",
+        "video": "https://www.youtube.com/embed/FUzcsIjn4LY",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Sheik",
+        "imagen": "images/sheik.png",
+        "video": "https://www.youtube.com/embed/cCQXBEiARns",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Zelda",
+        "imagen": "images/zelda.png",
+        "video": "https://www.youtube.com/embed/fMDgFn3qQ_c",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Dr. Mario",
+        "imagen": "images/drmario.png",
+        "video": "https://www.youtube.com/embed/w0qVpaEtEF4",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Pichu",
+        "imagen": "images/pichu.png",
+        "video": "https://www.youtube.com/embed/9ZD89yfBCyE",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Falco",
+        "imagen": "images/falco.png",
+        "video": "https://www.youtube.com/embed/rJj9J5MW8xg",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Marth",
+        "imagen": "images/marth.png",
+        "video": "https://www.youtube.com/embed/icuBIlBPYj0",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Lucina",
+        "imagen": "images/lucina.png",
+        "video": "https://www.youtube.com/embed/vQqvKaCne4k",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Young Link",
+        "imagen": "images/younglink.png",
+        "video": "https://www.youtube.com/embed/qpzDPfCzB7g",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Ganondorf",
+        "imagen": "images/ganondorf.png",
+        "video": "https://www.youtube.com/embed/Q7pzoLQlrsM",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Mewtwo",
+        "imagen": "images/mewtwo.png",
+        "video": "https://www.youtube.com/embed/BcCpZHVIv9Q",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Roy",
+        "imagen": "images/roy.png",
+        "video": "https://www.youtube.com/embed/FtDn6HBn_Qk",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Chrom",
+        "imagen": "images/chrom.png",
+        "video": "https://www.youtube.com/embed/733o521fbdE",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Mr. Game & Watch",
+        "imagen": "images/mrgameandwatch.png",
+        "video": "https://www.youtube.com/embed/Ic0xR07DhSY",
+        "primeraaparicion": "Melee"
+      },
+      {
+        "nombre": "Meta Knight",
+        "imagen": "images/metaknight.png",
+        "video": "https://www.youtube.com/embed/A99IYmm50RY",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "Pit",
+        "imagen": "images/pit.png",
+        "video": "https://www.youtube.com/embed/M_Pszs9I7S4",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "Pit Sombrio",
+        "imagen": "images/pitsombrio.png",
+        "video": "https://www.youtube.com/embed/q2hJjyP8FGA",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Samus Zero",
+        "imagen": "images/samuszero.png",
+        "video": "https://www.youtube.com/embed/Y4PTxiq11Fk",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "Wario",
+        "imagen": "images/wario.png",
+        "video": "https://www.youtube.com/embed/4lK7zkTInNA",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "Snake",
+        "imagen": "images/snake.png",
+        "video": "https://www.youtube.com/embed/7NLKrPYYQt0",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "Ike",
+        "imagen": "images/ike.png",
+        "video": "https://www.youtube.com/embed/aV6h3jWO6c",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "Pokemon Trainer",
+        "imagen": "images/pokemon.png",
+        "video": "https://www.youtube.com/embed/dYpf9FoPN_M",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "Diddy Kong",
+        "imagen": "images/diddykong.png",
+        "video": "https://www.youtube.com/embed/AjywYr-fuqY",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "Lucas",
+        "imagen": "images/lucas.png",
+        "video": "https://www.youtube.com/embed/GWjfyyGNL8c",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "Sonic",
+        "imagen": "images/sonic.png",
+        "video": "https://www.youtube.com/embed/138MW7zOw0M",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "King Dedede",
+        "imagen": "images/kingdedede.png",
+        "video": "https://www.youtube.com/embed/bikxqlRPN64",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "Olimar",
+        "imagen": "images/olimar.png",
+        "video": "https://www.youtube.com/embed/AFHgO8rMzcg",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "Lucario",
+        "imagen": "images/lucario.png",
+        "video": "https://www.youtube.com/embed/7gfpUgrLEwo",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "R.O.B",
+        "imagen": "images/rob.png",
+        "video": "https://www.youtube.com/embed/NqL7m9CuGD0",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "Toon Link",
+        "imagen": "images/toonlink.png",
+        "video": "https://www.youtube.com/embed/62uBiZfw9w0",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "Wolf",
+        "imagen": "images/wolf.png",
+        "video": "https://www.youtube.com/embed/YLG2LGY95f4",
+        "primeraaparicion": "Brawl"
+      },
+      {
+        "nombre": "Villager",
+        "imagen": "images/villager.png",
+        "video": "https://www.youtube.com/embed/wY_wCijU1Pk",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Megaman",
+        "imagen": "images/megaman.png",
+        "video": "https://www.youtube.com/embed/m4632ulEnNc",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "WIi Fit Trainer",
+        "imagen": "images/wiifittrainer.png",
+        "video": "https://www.youtube.com/embedkJbHRv4nCBw",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Rosalina",
+        "imagen": "images/rosalina.png",
+        "video": "https://www.youtube.com/embed/JX2mySkglVU",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Little Mac",
+        "imagen": "images/littlemac.png",
+        "video": "https://www.youtube.com/embed/vBM09wj8xwE",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Greninja",
+        "imagen": "images/greninja.png",
+        "video": "https://www.youtube.com/embed/rMCn8NuATaE",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Palutena",
+        "imagen": "images/palutena.png",
+        "video": "https://www.youtube.com/embed/0yD_B4ZkdME",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Pac Man",
+        "imagen": "images/pacman.png",
+        "video": "https://www.youtube.com/embed/NPzo-TuH0C0",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Robin",
+        "imagen": "images/robin.png",
+        "video": "https://www.youtube.com/embed/QBxtnTgUwcM",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Shulk",
+        "imagen": "images/shulk.png",
+        "video": "https://www.youtube.com/embed/XWeR6XmzZyI",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Bowser Jr",
+        "imagen": "images/bowserjr.png",
+        "video": "https://www.youtube.com/embed/fZ2dm9EoJfE",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Duck Hunt",
+        "imagen": "images/duckhunt.png",
+        "video": "https://www.youtube.com/embed/anhjSVXYL6E",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Ryu",
+        "imagen": "images/ryu.png",
+        "video": "https://www.youtube.com/embed/9LAjpoI-ap8",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Ken",
+        "imagen": "images/ken.png",
+        "video": "https://www.youtube.com/embed/9_tQRugeXik",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Cloud",
+        "imagen": "images/cloud.png",
+        "video": "https://www.youtube.com/embed/hccjmuujoD4",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Corrin",
+        "imagen": "images/corrin.png",
+        "video": "https://www.youtube.com/embed/7B4w2Tsy9PE",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Bayonetta",
+        "imagen": "images/bayonetta.png",
+        "video": "https://www.youtube.com/embed/oYe8HpzYebg",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Inkling",
+        "imagen": "images/corrin.png",
+        "video": "https://www.youtube.com/embed/O4-7-bJWUsc",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Ridley",
+        "imagen": "images/ridley.png",
+        "video": "https://www.youtube.com/embed/EDi1Zf_vJsY",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Simon",
+        "imagen": "images/simon.png",
+        "video": "https://www.youtube.com/embed/RY7WL-n1atg",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Richter",
+        "imagen": "images/richter.png",
+        "video": "https://www.youtube.com/embed/ELrWbGScgwU",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "King k. Rool",
+        "imagen": "images/kingkrool.png",
+        "video": "https://www.youtube.com/embed/pKcXgSV8PTE",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Canela",
+        "imagen": "images/canela.png",
+        "video": "https://www.youtube.com/embed/UtPSbS7W5AQ",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Incineroar",
+        "imagen": "images/incineroar.png",
+        "video": "https://www.youtube.com/embed/eE6Agn9d89U",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Mii Brawler",
+        "imagen": "images/brawler.png",
+        "video": "https://www.youtube.com/embed/qdSKO-mc2n8",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Mii Swordfighter",
+        "imagen": "images/swordfighter.png",
+        "video": "https://www.youtube.com/embed/qdSKO-mc2n8",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Mii Gunner",
+        "imagen": "images/gunner.png",
+        "video": "https://www.youtube.com/embed/qdSKO-mc2n8",
+        "primeraaparicion": "3DS & WII U"
+      },
+      {
+        "nombre": "Planta Piraña",
+        "imagen": "images/plantapiraña.png",
+        "video": "https://www.youtube.com/embed/JGc6QZX68Zc",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Joker",
+        "imagen": "images/joker.png",
+        "video": "https://www.youtube.com/embed/vperpYFzxbY",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Heroe",
+        "imagen": "images/heroe.png",
+        "video": "https://www.youtube.com/embed/56xl-t8usnQ",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Banjo y Kazooie",
+        "imagen": "images/banjo.png",
+        "video": "https://www.youtube.com/embed/9BaY2PXhkVE",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Terry",
+        "imagen": "images/terry.png",
+        "video": "https://www.youtube.com/embed/iYet62K35D4",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Byleth",
+        "imagen": "images/byleth.png",
+        "video": "https://www.youtube.com/embed/0m6698iXc3E",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Min min",
+        "imagen": "images/minmin.png",
+        "video": "https://www.youtube.com/embed/1AwlD6th7Gg",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Steve",
+        "imagen": "images/steve.png",
+        "video": "https://www.youtube.com/embed/bsb9IBVyamc",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Sephiroth",
+        "imagen": "images/sepiroth.png",
+        "video": "https://www.youtube.com/embed/UBT9VLus94s",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Pyra/Mythra",
+        "imagen": "images/pyra.png",
+        "video": "https://www.youtube.com/embed/Vk1IRG_PcCQ",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Kazuya",
+        "imagen": "images/kazuya.png",
+        "video": "https://www.youtube.com/embed/_e3KkXTqYFk",
+        "primeraaparicion": "Ultimate"
+      },
+      {
+        "nombre": "Sora",
+        "imagen": "images/sora.png",
+        "video": "https://www.youtube.com/embed/B5ReDz3SGlM",
+        "primeraaparicion": "Ultimate"
+      }
+    ]
+  }
+  
