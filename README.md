@@ -1,7 +1,5 @@
 # SmashSite
 
----
-
 ## Description
 
 SmashSite is a dynamic and interactive web application dedicated to the Super Smash Bros. series. It features an animated and visually engaging interface where users can explore characters from different versions of the game. The site dynamically generates character cards from a JSON file and provides an immersive browsing experience with animations and video content.
@@ -42,3 +40,12 @@ SmashSite/
 │── images/            # Folder for images and assets
 │── videos/            # Folder for video content
 ```
+
+## How it works
+
+1. The script fetches character data from personajes.json and generates cards dynamically.
+
+2. Users can filter characters based on their first game appearance using the navigation bar.
+
+3. Clicking on a character opens a video related to them.
+
