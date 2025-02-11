@@ -33,6 +33,18 @@ body {
     background: linear-gradient(52deg, var(--bg-color) 0%,
      var(--main-color) 100%);
 
+     animation: fadeInBody 1.5s ease-in-out forwards;
+
+
+}
+
+@keyframes fadeInBody {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
 
 header {
