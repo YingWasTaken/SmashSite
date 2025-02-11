@@ -49,6 +49,6 @@ SmashSite/
 
 3. Clicking on a character opens a video related to them.
 
-> [!TIP]
+> [!IMPORTANT]
 > VISIT THE SITE HERE: https://yingwastaken.github.io/SmashSite/
 
